@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/RPG_Character/Animations/Crouched/CrouchedBlendSpace1D.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/RPG_Character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue_1.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue_2.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Katana_Cyber_Katana_Skeletal_Mesh.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Katana_2K_Albedo.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Katana_2K_Emission.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Katana_2K_Normal.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Texture_001.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/RPG_Character/Animations/VaultOver.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9A/6GRCK3FF5GZ8IYWHWLL21K.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/VH/DFTDRE44324DAS9668P9I7.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/PL/FQXAV7AJXDUIMED51FPNLZ.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue_02.uasset",
+				"C:/Users/kenny/OneDrive/Documents/Unreal Projects/ARPG_GorkaGames_Tut/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue_3.uasset"
+			]
+		}
+	]
+}

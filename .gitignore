@@ -1,0 +1,81 @@
+# Unreal Engine specific
+*.log
+*.ini
+*.db
+*.bak
+*.unreal
+*.sdf
+*.sln
+*.uasset
+
+# Compiled binaries
+Binaries/
+DerivedDataCache/
+
+# Intermediate files
+Intermediate/
+
+# Visual Studio code files
+.vscode/
+
+# Compiled Shader Cache
+DerivedDataCache/
+
+# Logs
+Logs/
+
+# Metadata files
+*.opensdf
+*.sdf
+
+# Swarm cache directory
+SwarmCache/
+
+# Android
+Android/
+Intermediate/Android/
+
+# iOS
+iOS/
+Intermediate/iOS/
+
+# Mac
+Intermediate/Mac/
+
+# Windows
+Intermediate/Windows/
+*.sdf
+*.opensdf
+
+# Generated video files
+*.avi
+*.mp4
+*.mov
+*.flv
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+Thumbs.db
+Thumbs.db:encryptable
+
+# Windows image file caches
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
