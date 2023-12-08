@@ -6,7 +6,6 @@
 *.unreal
 *.sdf
 *.sln
-*.uasset
 
 # Compiled binaries
 Binaries/
